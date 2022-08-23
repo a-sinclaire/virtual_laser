@@ -10,7 +10,7 @@ publishes a new point cloud with the point of intersection
 
 #
 
-home version is meant for me (Sam)
+home version is meant for me (Amelia)
 
 camera_orient goes along with that version (since everything in mine is all rotated 90 degrees this fixes that)
 
